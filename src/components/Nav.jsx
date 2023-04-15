@@ -12,54 +12,34 @@ function Nav() {
                         <img src={Logo} alt="Apple" />
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Store
-                        </a>
+                        <a className="link-styled">Store</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Mac
-                        </a>
+                        <a className="link-styled">Mac</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            iPad
-                        </a>
+                        <a className="link-styled">iPad</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            iPhone
-                        </a>
+                        <a className="link-styled">iPhone</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Watch
-                        </a>
+                        <a className="link-styled">Watch</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            AirPods
-                        </a>
+                        <a className="link-styled">AirPods</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Tv & Home
-                        </a>
+                        <a className="link-styled">Tv & Home</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Entertainment
-                        </a>
+                        <a className="link-styled">Entertainment</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Accessories
-                        </a>
+                        <a className="link-styled">Accessories</a>
                     </li>
                     <li>
-                        <a className="link-styled" href="#">
-                            Support
-                        </a>
+                        <a className="link-styled">Support</a>
                     </li>
                     <li>
                         <img src={Search} alt="Search" />
